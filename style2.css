@@ -310,7 +310,7 @@ h3{
 
 main{
     /* background-color: rosybrown; */
-    height: auto;
+    height: calc(100vh-64px);
     width: calc(100vw - 17.22vw);
     padding: 30px;
 }
@@ -1162,4 +1162,5 @@ main{
         bottom: 80px;
         width: 180px;
     }
+
 }
